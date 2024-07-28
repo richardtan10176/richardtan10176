@@ -12,8 +12,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning PyTorch, ROS, as well as Embeded Systems Design
-- ⚙️ I'm currently working on ... 💤
+- 🌱 I’m currently working with Node.js, React, SQL
 - 📫 Reach me at my email [richardtan787@gmail.com]() or message me at my LinkedIn below!
 - 🎓 3rd year student studying Computer Engineering at the University Of Toronto. 
 
