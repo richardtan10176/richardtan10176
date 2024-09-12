@@ -11,10 +11,10 @@
 **richardtan10176/richardtan10176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-
-- 🌱 I’m currently working with Node.js, React, SQL
+Welcome to my profile! I'm currently a 3rd year ECE at the University Of Toronto. Here you will find *most* of the code i have written!
+- 🌱 I’m currently working...
 - 📫 Reach me at my email [richardtan787@gmail.com]() or message me at my LinkedIn below!
-- 🎓 3rd year student studying Computer Engineering at the University Of Toronto. 
+
 
 
 <div id="badges">
