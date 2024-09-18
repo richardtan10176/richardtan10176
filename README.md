@@ -12,8 +12,6 @@
 Here are some ideas to get you started:
 -->
 Welcome to my profile! I'm currently a 3rd year ECE at the University Of Toronto. Here you will find *most* of the code i have written!
-
-- 🌱 I’m currently working...
 - 📫 Reach me at my email [richardtan787@gmail.com]() or message me at my LinkedIn below!
 
 
